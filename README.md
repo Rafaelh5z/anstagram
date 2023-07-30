@@ -1,4 +1,4 @@
-## ANSTAGRAM
+# ANSTAGRAM
 
 ## About Anstagram
 
@@ -15,7 +15,7 @@ Anstagram is a web application clone from instagram
 - php artisan storage:link
 - php artisan migrate
 
-# Run 
+## Run 
 
 - npm run watch
 - npm run dev
